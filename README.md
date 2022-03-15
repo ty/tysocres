@@ -7,3 +7,5 @@
 [MLB Games](https://www.google.com/search?q=baseball+games+today&client=safari&rls=en)
 
 [Next Dubs Game](https://www.google.com/search?q=what+time+does+the+next+warriors+game+start&client=safari&rls=en)
+
+[Next Giants Game](https://www.google.com/search?q=what+time+does+the+next+giants+game+start&client=safari&rls=en)
